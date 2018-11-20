@@ -1,5 +1,5 @@
 {
-    "name": "anam/phantommagick",
+    "name": "diegocasetti/phantommagick",
     "description": "PhantomMagick provides a simple API to ease the process of converting HTML to PDF or images",
     "keywords": [
         "Pdf",
@@ -18,7 +18,7 @@
         "converter",
         "Phantom"
     ],
-    "homepage": "https://github.com/anam-hossain/phantommagick",
+    "homepage": "https://github.com/diegocasetti/phantommagick",
     "license": "MIT",
     "authors": [
         {
@@ -36,7 +36,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Anam\\PhantomMagick\\" : "src/" 
+            "Anam\\PhantomMagick\\" : "src/"
         }
     },
     "autoload-dev": {
